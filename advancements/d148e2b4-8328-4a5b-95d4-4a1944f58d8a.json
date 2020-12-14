@@ -433,6 +433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2020-12-14 18:53:11 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-12-11 14:19:48 +0530"
@@ -486,6 +492,12 @@
       "has_gravel": "2020-12-11 14:24:36 +0530"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2020-12-14 19:29:31 +0530"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -592,6 +604,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2020-12-09 17:37:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2020-12-14 18:53:11 +0530"
     },
     "done": true
   },
@@ -773,6 +791,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-12-12 09:25:54 +0530",
       "minecraft:creeper": "2020-12-12 22:38:17 +0530",
+      "minecraft:husk": "2020-12-14 18:52:10 +0530",
       "minecraft:cave_spider": "2020-12-12 22:55:17 +0530",
       "minecraft:enderman": "2020-12-09 17:37:25 +0530",
       "minecraft:zombie": "2020-12-12 23:17:16 +0530"
@@ -1550,6 +1569,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-12-14 19:29:31 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2020-12-12 09:13:52 +0530"
@@ -1673,6 +1698,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-12-09 17:26:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2020-12-14 18:57:37 +0530"
     },
     "done": true
   },
