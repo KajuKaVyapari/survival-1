@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-12-17 12:31:15 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-12-09 16:37:17 +0530"
@@ -790,7 +796,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-12-12 09:25:54 +0530",
+      "minecraft:spider": "2020-12-16 19:42:41 +0530",
       "minecraft:creeper": "2020-12-12 22:38:17 +0530",
+      "minecraft:slime": "2020-12-25 16:25:42 +0530",
       "minecraft:husk": "2020-12-14 18:52:10 +0530",
       "minecraft:cave_spider": "2020-12-12 22:55:17 +0530",
       "minecraft:enderman": "2020-12-09 17:37:25 +0530",
@@ -825,6 +833,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2020-12-09 16:38:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2020-12-25 16:40:44 +0530"
     },
     "done": true
   },
@@ -864,6 +878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-12-25 16:25:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-12-09 17:39:10 +0530"
@@ -873,6 +893,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2020-12-11 14:19:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-12-25 17:07:11 +0530"
     },
     "done": true
   },
@@ -1068,6 +1094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2020-12-25 16:40:44 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2020-12-09 15:25:01 +0530"
@@ -1173,6 +1205,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-12-11 15:35:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-12-25 16:25:46 +0530"
     },
     "done": true
   },
@@ -1374,6 +1412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-12-25 16:25:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-12-09 15:17:47 +0530"
@@ -1402,6 +1446,7 @@
     "criteria": {
       "minecraft:forest": "2020-12-09 15:14:29 +0530",
       "minecraft:badlands_plateau": "2020-12-12 09:28:47 +0530",
+      "minecraft:desert_hills": "2020-12-16 19:37:52 +0530",
       "minecraft:desert": "2020-12-09 15:15:00 +0530",
       "minecraft:badlands": "2020-12-09 17:00:39 +0530",
       "minecraft:beach": "2020-12-12 23:32:07 +0530",
@@ -1409,6 +1454,7 @@
       "minecraft:wooded_hills": "2020-12-09 16:37:29 +0530",
       "minecraft:wooded_badlands_plateau": "2020-12-12 09:23:59 +0530",
       "minecraft:swamp": "2020-12-09 17:23:39 +0530",
+      "minecraft:savanna": "2020-12-25 17:00:39 +0530",
       "minecraft:plains": "2020-12-09 17:24:54 +0530"
     },
     "done": false
